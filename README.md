@@ -14,7 +14,7 @@ Fork Deploy is highly recommended
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TECHNOBOT-OP/TECHNOUSERBOT&branch=master&ports=8080;http;/&name=tbot&env[PORT]=8080&env[ENV]=True&env[ALIVE_NAME]=None&env[APP_ID]=None&env[API_HASH]=None&env[TECHNO_STRING]=None&env[BOT_TOKEN]=None&env[DATABASE_URL]=None&env[EXTRA_REPO]=True&env[UPSTREAM_REPO]=pro&env[TZ]=Asia/Kolkata"> <img src="https://www.koyeb.com/static/images/deploy/button.svg">
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TECHNOBOT-OP/TECHNOUSERBOT&branch=master&ports=8080;http;/&name=tbot&env[PORT]=8080&env[ENV]=True&env[ALIVE_NAME]=None&env[APP_ID]=None&env[API_HASH]=None&env[TECHNO_STRING]=None&env[BOT_TOKEN]=None&env[DATABASE_URL]=None&env[EXTRA_REPO]=True&env[UPSTREAM_REPO]=none&env[TZ]=Asia/Kolkata"> <img src="https://www.koyeb.com/static/images/deploy/button.svg">
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
